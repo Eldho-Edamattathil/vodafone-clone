@@ -1,0 +1,794 @@
+
+.body{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+.top-grid{
+  width: 1500px;
+  height: 30px;
+  background-color: #464646b1;
+  margin-top: 0px;
+}
+.Privatekunden-div{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+  vertical-align: top;
+  margin-left: 200px;
+
+}
+.Privatekunden{
+  margin-top: 0;
+  width: 100%;
+  height: 26px;
+  margin-bottom: 0px;
+  padding-left: 5px;
+  padding-top: 5px;
+
+}
+.Privatekunden-div:hover{
+  background-color: #ededed;
+  color: red;
+  cursor: pointer;
+}
+
+.Geschaftskunden-div{
+  width: 120px;
+  height: 30px;
+  background-color: rgb(162, 162, 162);
+  vertical-align: top;
+  margin-left: 100px;
+
+  
+  
+
+}
+.Geschaftskunden{
+  margin-top: 0;
+  width: 100%;
+  height: 26px;
+  margin-bottom: 0px;
+  padding-left: 5px;
+  padding-top: 5px;
+
+}
+.Geschaftskunden:hover{
+  background-color: #ededed;
+  color: red;
+  cursor: pointer;
+}
+
+
+.Netz-div{
+  
+    width: 160px;
+    text-align: center;
+    height: 26px;
+    margin-left: 500px;
+    margin-top: -28px;
+
+}
+.Netz{
+  margin-top: 4px;
+  margin-bottom: 0px;
+  color: white;
+  
+}
+.Netz:hover{
+cursor: pointer;
+}
+
+.Kontakt-div{
+  
+  width: 170px;
+  height: 26px;
+  margin-left: 418px;
+  margin-top: -28px;
+
+}
+
+.Kontakt{
+  MARGIN-LEFT: 24PX;
+  MARGIN-TOP: 4PX;
+    margin-bottom: 0px;
+    color: white;
+}
+.Kontakt:hover{
+  cursor: pointer;
+  }
+
+.Shopfinder-div{
+  margin-left: 712px;
+    margin-top: -39px;
+
+}
+.Shopfinder{
+  margin-left: 15px;
+  color: white;
+}
+.Shopfinder:hover{
+  cursor: pointer;
+  }
+
+.BeratungBestellung-div{
+  width: 400px;
+  margin-left: 630px;
+    margin-top: -39px;
+}
+
+.BeratungBestellung{
+  color: white;
+  
+  
+}
+
+.BeratungBestellung:hover{
+  cursor: pointer;
+}
+
+.second-top-grid{
+  width: 1500px;
+    height: 72px;
+    
+    margin-top: 0px;
+}
+
+.vodafone-logo{
+  margin-left: 119px;
+    height: 72px;
+}
+.vodafone-logo:hover{
+  cursor: pointer;
+  
+}
+.Mobilfunk-div{
+  
+  margin-left: 10px;
+    margin-top: -79px;
+}
+
+.Mobilfunk{
+  font-size: 20px;
+  margin-top: 105px;
+ 
+}
+.Mobilfunk:hover{
+  cursor: pointer;
+  color: red;
+  
+}
+.InternetFestnetz-div{
+  margin-left: 324px;
+    margin-top: -71px;
+    width: 155px;
+    font-size: 20px;
+}
+
+.InternetFestnetz{
+  font: size 20px; ;
+}
+.InternetFestnetz:hover{
+  cursor: pointer;
+  color: red;
+}
+.TV-div{
+  margin-left: 314px;
+    margin-top: -71px;
+    width: 155px;
+    font-size: 20px;
+}
+
+.TV{
+  font: size 20px; ;
+}
+.TV:hover{
+  cursor: pointer;
+  color: red;
+}
+.AngebotefurKundinnen-div{
+  margin-left: 584px;
+    margin-top: -71px;
+    width: 206px;
+    font-size: 20px;
+}
+
+.AngebotefurKundinnen{
+  font: size 20px; ;
+}
+.AngebotefurKundinnen:hover{
+  cursor: pointer;
+  color: red;
+}
+.Hilfe-div{
+  margin-left: 627px;
+  margin-top: -71px;
+ 
+  font-size: 20px;
+  width: 74px;
+}
+
+.Hilfe{
+  font: size 20px; ;
+}
+.Hilfe:hover{
+  cursor: pointer;
+  color: red;
+}
+.Warenkorb-div{
+  margin-left: 997px;
+    margin-top: -52px;
+}
+
+.Warenkorb{
+  font-size: 12px;
+}
+.Warenkorb-div:hover{
+  cursor: pointer;
+  color: red;
+}
+.Suche-div{
+  margin-left: 864px;
+    margin-top: -52px;
+}
+.Suche-div:hover{
+  cursor: pointer;
+  color: red;
+}
+.Suche{
+  font-size: 12px;
+}
+
+.MeinVodafone-div{
+  margin-left: 1103px;
+    margin-top: -56px;
+}
+.MeinVodafone-div:hover{
+  cursor: pointer;
+  color: red;
+}
+.MeinVodafone{
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+.Samsung-grid{
+  margin-top: 0px;
+width:1500px;
+height: 450px;
+background-color: #f1f1f1;
+margin-bottom: -34px;
+}
+
+
+
+
+
+.first{
+  width: 700 px;
+   
+}
+
+.samsung-img{
+  margin-left: 70px;
+  height: 401px;
+  
+  
+}
+.Abeinmal{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.Galaxy{
+  background-color: rgb(48, 47, 47);
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+  
+}
+.Galaxy:hover{
+  cursor: pointer;
+  background-color: black;
+}
+.Galaxy1{
+  background-color: rgb(255, 255, 255);
+  color: rgb(33, 31, 31);
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+  border-color: rgb(255, 255, 255);
+  margin-left: 10px;
+  
+  
+}
+.Galaxy1:hover{
+  cursor: pointer;
+}
+.Text-after-samsung-img{
+  width: 800px;
+}
+
+
+.above-iphone{
+  font-family: "Vodafone",Arial,sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46px;
+  text-align: center;
+  color: #3a3939;
+}
+
+.Mobifunk-layout{
+  background-color: #ededed;
+  
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-width: 2px;
+  border-color: #c1c1c1;
+  margin-left: 100px;
+  object-position: center;
+  color: #3a3939;
+  
+  
+}
+
+
+.Mobifunk-layout:hover{
+  background-color: rgb(122, 122, 122);
+  cursor: pointer;
+}
+
+ 
+  
+
+.grid-first{
+ margin-top: 40px;
+  width: 1500px;
+  background-color: #ededed;
+}
+
+
+
+
+.flex-iphone{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  max-width: 1500px;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
+.iphone-14-pro1{
+  /* width: 300px; */
+}
+.iphone-14-pro-name{
+  /* display: inline-block; */
+  /* width: 300px; */
+  
+
+}
+
+.iphone-14-pro-rate{
+display: inline-block;
+width: 300px;
+}
+  
+
+.iphone-14{
+  /* width: 300px; */
+}
+
+
+.iphone-14-rate{
+display: inline-block;
+width: 300px;
+}
+.iphone-14-pro-max{
+  display: inline-block;
+  width: 300px; 
+}
+
+.size{
+  width: 500px; 
+  /* display: inline-block; */
+  background-color: #c1c1c1;
+  margin-right: 5px;
+  
+}
+
+.size:hover{
+  background-color: #aca5a5;
+  cursor: pointer;
+}
+
+
+.Zum-Angebot-button{
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  background-color: white;
+  border-color: white;
+  font-weight: bold;
+  color: #3a3939;
+  
+  
+  
+}
+
+
+
+
+
+
+
+  /* First grid section red */
+
+
+.main-flex-1{
+    display: flex;
+    flex-direction: row;
+    flex: 1; 
+    column-gap: 2px;
+    margin-top: 20px;
+    height: 600px;
+    max-width: 1500px;  
+    
+}
+
+.main-flex-2{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  column-gap: 2px;
+  margin-top: 2px;
+  height: 600px;
+  max-width: 1500px;
+  
+}
+ 
+.red-grid-1,.red-grid-2{
+  background-color: rgb(212, 179, 179);
+  position: relative;
+  
+}
+
+
+
+
+.Mbits{
+ width: 750px;
+ height: 350px;
+  
+}
+.badge-b-blue{
+  width: 150px;
+  height: 30px;
+  background-color: #007c92;
+  position:absolute;
+  color: white; font-weight: bold;
+  margin-left: 263px;
+  margin-top: -19px; 
+  padding-left: 5px;
+padding-top: 5px;
+}
+.Dollar-49,.Dollar-1{
+  font-weight: bold;
+  font-size: 40px;
+  color: rgb(36, 32, 32);
+  font-family: 'Times New Roman', Times, serif;
+}
+.Zum-Internet-Deal-div{
+  margin-left: 245px;
+    font-size: 15px;
+}
+.Zum-Internet-Deal{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  color: rgb(43, 42, 42);
+  border-color: white;
+}
+
+
+
+.Zu-den-Tariffen{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  color: rgb(43, 42, 42);
+  margin-top: 43px;
+  margin-left: 272px;
+  border-color: white;
+}
+
+.red-grid-1:hover,.red-grid-2:hover{
+  cursor: pointer;
+  filter: brightness(0.6);
+  
+}
+
+
+
+
+
+
+/* second red grid */
+
+.red-grid-second-1,.red-grid-second-2{
+  background-color: rgb(212, 179, 179);
+}
+.Mehr-zum-gleichen-Preis-div{
+  
+  width: 180px;
+  height: 30px;
+  background-color: #007c92;
+  position:relative;
+ 
+  margin-left: 263px;
+    margin-top: -34px;
+}
+
+.Mehr-zum-gleichen-Preis{
+color: white;
+font-weight: bold;
+padding-left: 5px;
+padding-top: 5px;
+}
+
+
+
+.Bei-Vertragsverlangererung-div{
+  width: 200px;
+  height: 30px;
+  background-color: #007c92;
+  position:relative;
+ 
+  margin-left: 263px;
+    margin-top: -34px;
+}
+.Bei-Vertragsverlangererung{
+  color: white;
+  font-weight: bold;
+  padding-left: 5px;
+padding-top: 5px;
+}
+
+.Zum-Angebot-div{
+  margin-top: -43px;
+  margin-left: -68px;
+}
+
+.Zum-Angebot{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  color: rgb(43, 42, 42);
+  margin-top: 43px;
+  margin-left: 272px;
+  border-color: white;
+}
+
+.red-grid-second-1:hover,.red-grid-second-2:hover{
+  cursor: pointer;
+  
+  filter: brightness(0.6);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.black-bg{
+  background-color: black;
+}
+.last-image-flex{
+  display: flex;
+  flex-direction: row;
+  /* width: 1500px; */
+
+}
+
+.after-last-image-flex{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+
+}
+
+.after-last-image{
+  
+  margin-left: 245px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2f2d2d;
+    margin-top: 100px;
+  
+}
+.Jetzt-empfehlen-div{
+margin-left: 800px;
+    margin-top: -122px;
+}
+
+.Jetzt-empfehlen{
+  width: 155px;
+  height: 55px;
+  margin-top: -17px;
+    margin-left: -35px;
+    color: #3a3939;
+    font-size: 15px;
+    font-weight: bold;
+}
+.Jetzt-empfehlen:hover{
+  cursor: pointer;
+}
+
+.bottom-2-flex{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  
+}
+.bottom-2-1-div1,.bottom-2-2-div2,.bottom-2-3-div3,.bottom-2-4-div4{
+ margin-top: 0px;
+ margin-bottom: 0px;
+ padding-top: 8px;
+ padding-left: 15px;
+ color: #2f2d2d;
+  
+
+}
+
+.bottom-2-1,.bottom-2-2,.bottom-2-3,.bottom-2-4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 800px;
+  height: 40px;
+  
+  border-color: rgb(117, 117, 117);
+  border-width: 1px;
+  border-style: solid;
+  
+  text-align: start;
+}
+.bottom-2-1:hover,.bottom-2-2:hover,.bottom-2-3:hover,.bottom-2-4:hover{
+  cursor: pointer;
+}
+.down-arrow{
+  margin-left: 761px;
+    margin-top: -17px;
+}
+
+
+
+/* footer flex */
+
+
+.footer-flex{
+  margin-top: 40px;
+  height: 1300px;
+  width: 1500px;
+  background-color: rgb(48, 47, 47);
+}
+
+
+.footer-flex-1,.footer-flex-2,.footer-flex-3,.footer-flex-4{
+  
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+
+}
+
+
+
+
+.footer-flex-1-div1,.footer-flex-1-div2,.footer-flex-1-div3,.footer-flex-1-div4{
+  width: 200px;
+  margin-top: 100px;
+}
+
+.footer-flex-1-div1:hover,.footer-flex-1-div2:hover,.footer-flex-1-div3:hover,.footer-flex-1-div4:hover{
+  cursor: pointer;
+}
+
+.footer-flex-2-div1,.footer-flex-2-div2,.footer-flex-2-div3,.footer-flex-2-div4,.footer-flex-2-div5,.footer-flex-2-div6,.footer-flex-2-div7{
+  width: 50px;
+  margin-top: 50px;
+}
+
+
+.footer-flex-2-div1:hover,.footer-flex-2-div2:hover,.footer-flex-2-div3:hover,.footer-flex-2-div4:hover,.footer-flex-2-div5:hover,.footer-flex-2-div6:hover,.footer-flex-2-div7:hover{
+  cursor: pointer;
+}
+
+.footer-flex-3-div1,.footer-flex-3-div2,.footer-flex-3-div3,.footer-flex-3-div4{
+  width: 200px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+
+.flex-3-para{
+  font-size: 20px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.footer-flex-4-div1,.footer-flex-4-div2,.footer-flex-4-div3,.footer-flex-4-div4{
+  width: 200px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+
+.footer-last-class{
+  font-size: 15px;
+  color: white;
+
+}
+
+.footer-flex-4-div1:hover,.footer-flex-4-div2:hover,.footer-flex-4-div3:hover,.footer-flex-4-div4:hover{
+  cursor: pointer;
+}
